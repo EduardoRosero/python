@@ -18,8 +18,8 @@ print(usuario.__password) #Este atributo es completamente nuevo y difrente del d
 
 
 #Metodos magicos, se caracterizan porque empiezan y terminan con doble guion bajo
-
-class Usuario:
+clas
+s Usuario:
 	def __new__(cls): #Este es el constructor de la clase
 #primero se ejecuta el metodo new y despues el init"""
 		print("Este metodo se ejecuta primero")
