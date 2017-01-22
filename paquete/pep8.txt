@@ -1,0 +1,11 @@
+Dos herramientas para mejorar las practicas de programacion en python son:
+
+1)
+pep8 en la direccion 
+http://legacy.python.org/dev/peps/pep-0008/
+en donde se encuentra un manual para mejorar nuestra manera de programar en python
+
+2)
+pep8 online
+
+En donde podemos colocar los scripts y verificar si estamos siguiendo estandares de programacion en python, es decir testear
