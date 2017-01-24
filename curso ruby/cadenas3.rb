@@ -17,4 +17,4 @@ puts inter
 inter ="Hola #{cadena2.capitalize}"
 puts inter
 
-puts "".methods
+puts "".methods #Ver los metodos de los strings
